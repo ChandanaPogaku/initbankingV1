@@ -1,0 +1,1 @@
+https://github.com/ChandanaPogaku/initbankingV1.git   = remote repository URL

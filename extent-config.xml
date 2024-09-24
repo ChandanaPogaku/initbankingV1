@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report title -->
+        <reportname>InetBanking Test Project</reportname>
+        
+        <!-- Document title -->
+        <documenttitle>Functional Test Automation Report</documenttitle>
+        
+        <!-- Theme of the report -->
+        <theme>standard</theme>
+        
+        <!-- Encoding format -->
+        <encoding>utf-8</encoding>
+        
+        <!-- Chart visibility -->
+        <charts>
+            <visibility>true</visibility>
+        </charts>
+        
+        <!-- Protocol (http or https) -->
+        <protocol>https</protocol>
+        
+        <!-- Time and Date format -->
+        <timeformat>MMM dd, yyyy HH:mm:ss</timeformat>
+        
+        <!-- Add other system/environment information -->
+        <systeminfo>
+            <param name="Host Name" value="localhost" />
+            <param name="Environment" value="QA" />
+            <param name="User" value="pavan" />
+        </systeminfo>
+        
+        <!-- Additional configurations -->
+        <viewname>Dashboard</viewname>
+        <viewname>Test</viewname>
+        <viewname>Category</viewname>
+        <viewname>Author</viewname>
+        <viewname>Device</viewname>
+    </configuration>
+</extentreports>
+
